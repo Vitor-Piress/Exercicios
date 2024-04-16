@@ -1,2 +1,2 @@
 # Exercicios
- Exercicios de programação
+ Exercicios de programação, de cursos adversos, do curso superior e de exercícios independetes.
